@@ -2,6 +2,8 @@
 	background-color: #55CCCC;
 	margin: 15px;
 }
-#dropdownMenuMobile {
-	background-color: #CCCC55;
+@media (max-width: 768px){
+	#dropdownMenuMobile {
+		background-color: #CCCC55;
+	}	
 }
